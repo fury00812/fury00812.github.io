@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 title = 'Ryo Fukuda'
 theme = 'beautifulhugo'
+publishDir = '.'
 
 DefaultContentLanguage = "en"
 
