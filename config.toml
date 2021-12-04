@@ -14,3 +14,7 @@ DefaultContentLanguage = "en"
     languageName = "Japanese"
     weight = 20
     title = "福田 りょう"
+
+[menu]
+[[menu.main]]
+    name = "Profile"
