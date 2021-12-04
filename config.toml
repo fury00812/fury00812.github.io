@@ -1,6 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://fury00812.github.io/'
 title = 'Ryo Fukuda'
-name = 'ryo-fu'
 theme = 'beautifulhugo'
 publishDir = '.'
 
