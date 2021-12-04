@@ -1,5 +1,6 @@
 baseURL = 'http://example.org/'
 title = 'Ryo Fukuda'
+name = 'ryo-fu'
 theme = 'beautifulhugo'
 publishDir = '.'
 
