@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+title = 'Ryo Fukuda'
+theme = 'beautifulhugo'
+publishDir = 'docs'
+
+DefaultContentLanguage = 'en'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 10
+    title = 'Ryo Fukuda'
+  [languages.ja]
+    languageName = 'Japanese'
+    weight = 20
+    title = '福田 りょう'
+
+
