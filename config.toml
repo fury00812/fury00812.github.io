@@ -1,9 +1,14 @@
 baseURL = 'https://fury00812.github.io/'
 title = 'Ryo Fukuda'
 theme = 'beautifulhugo'
+
+#docs以下を公開用にする
 publishDir = 'docs'
 
 DefaultContentLanguage = 'en'
+
+#相対パスを有効にする
+canonifyurls = true
 
 [languages]
   [languages.en]
@@ -15,4 +20,9 @@ DefaultContentLanguage = 'en'
     weight = 20
     title = '福田 りょう'
 
+[Params]
+  subtitle = "A PhD student at Augmented Human Communication Laboratory, NAIST."
 
+[Author]
+  email = 'fukuda.ryo.fo3[at]is.naist.jp'
+  github = 'fury00812'

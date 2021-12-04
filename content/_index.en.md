@@ -1,16 +1,10 @@
-### A student in doctor's course at [Augmented Human Communication Laboratory](https://ahcweb01.naist.jp/), NAIST.
-
-### Research Interests
-- Machine Translation (Speech Translation, Simultaneous interpretation, etc.)
-- Speech Processing
-
-### Education
+### Educations
 - **Apr 2021 - current** Nara Institute of Scinence and Technology, Ph.D. Student
 - **Apr 2019 - Mar 2021** Nara Institute of Scinence and Technology, Master of Engineering
 - **Apr 2017 - Mar 2019** Toyohashi University of Technology, Bachelor of Engineering
 - **Apr 2012 - Mar 2017** National Institute of Technology (KOSEN), Miyakonojo Collage, Associate degree in Electrical and Computer Engineering
 
-### Work Experience
+### Work Experiences
 - **Jan 2020 - current** Research Assistant at Nara Institute of Science and Technology, Supervisor: Satoshi Nakamura
 - **Jan 2019 - Feb 2019** Communication Science Laboratories, Nippon Telegraph and Telephone Corporation (NTT), Internship
 
@@ -41,11 +35,19 @@ NAIST’s Machine Translation Systems for IWSLT 2020 Conversational Speech Trans
 文の分散表現を用いた柔軟な質問文検索の試み. 言語処理学会 第25回 年次大会 (NLP 2019), 2019.
 \[[pdf](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B6-5.pdf)\]
 
-#### Award
+#### Awards
 - **Ryo Fukuda**, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh and Satoshi Nakamura.
 Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS. In Proceedings of the 24th Conference of the Oriental COCOSDA (O-COCOSDA), 2021.
 Best Student Paper
 - The NAIST Top Scholarship Program 2021. 令和3年度 奈良先端科学技術大学院大学 優秀学生奨学制度 対象者
 
-#### Research Grant
+#### Research Grants
 - 2021 Support Project for Innovative Doctoral Students in the Field of Multi-disciplinary Research in Advanced Science and Technology (NAIST Touch Stone), JST SPRING: Support for Pioneering Research Initiated by the Next Generation. 次世代研究者研究プログラム 先端科学技術融合分野におけるイノベーティブ博士人材支援プロジェクト (NAIST Touch Stone)
+
+### Research Interests
+- Machine Translation (Speech Translation, Simultaneous interpretation, etc.)
+- Speech Processing
+
+### Contact
+8916-5 Takayama-cho, Ikoma, Nara 630-0192, Japan  
+E-mail: fukuda.ryo.fo3{0x40}is.naist.jp
