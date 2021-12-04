@@ -1,4 +1,4 @@
-baseURL = 'https://fury00812.github.io/'
+baseURL = 'https://fury00812.github.io'
 title = 'Ryo Fukuda'
 theme = 'beautifulhugo'
 publishDir = '.'
@@ -18,3 +18,5 @@ DefaultContentLanguage = "en"
 [menu]
 [[menu.main]]
     name = "Profile"
+    url = "/"
+
